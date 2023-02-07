@@ -1,0 +1,13 @@
+-No exercício 1 tinha de fazer uma classe abstrata. Tinha de ter como atributos o nome do funcionário, o número do cartão de cidadão e a indicação do tipo de funções (pode ser técnico, administrativo ou gerente).
+
+-No exercício 2 tinha de implemente duas classes por por herança da classe do exercício 1. Numa das classes tinha de adicionar o atriubuto dos anos de experiencia e na outra o atributo da idade. ToString, classe abstrata movimentar, classe trabalhar, etc.
+
+-No exercício 3 tinha de instanciar 9 objetos das subclasses.
+
+-No exercício 4 tinha de criar a classe EmployeeList e definir os métodos para incluir objetos num array.
+
+-No exercício 5 tinha de criar a classe EmployeeComparatorByName para comparar funcionários.
+
+-No exercício 6 tinha de ordenar objetos colocados no objeto da classe EmployeeList usando o EmployeeComparatorByName.
+
+-No exercício 7 tinha de fazer manipulação de arrrays para obter o resultado indicado no enunciado.
